@@ -1,0 +1,1 @@
+Este proyecto trata sobre varios scripts, alguno de ellos con Windows Form, sobre los cuales crean tareas, administran el almacenamiento y la monitorización de logs. Para que se ejecute de manera correcta el codigo, se debe ejecutar primer el script Menu_PRINCIPAL y además, como administrador
